@@ -1,0 +1,1 @@
+This repository contains a simple Python program that demonstrates an unhandled ZeroDivisionError exception. The program includes a function that divides by zero if a specific condition is met. This example highlights the importance of proper exception handling in Python to prevent program crashes.
